@@ -1,0 +1,9 @@
+ipython==8.4.0
+keras==2.8.0
+matplotlib==3.5.1
+numpy==1.22.3
+opencv_contrib_python==4.5.5.64
+pandas==1.4.2
+protobuf==4.21.1
+scikit_learn==1.1.1
+tensorflow==2.2.0
